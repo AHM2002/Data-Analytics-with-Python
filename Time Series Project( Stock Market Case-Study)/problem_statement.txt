@@ -1,0 +1,10 @@
+1. Analyze closing price of all the stocks
+2. let's analyse the total volume of stock being traded each day
+3. analyse Daily price change in stock
+4. Analyze Daily Stock Returns
+5. Analyse monthly mean of close column/ closing price
+6. resampling close column year wise
+7. Checking if the Stock prices of these tech companies(Amazon,Apple,Google,Microsoft) are correlated
+8. reading data of tech companies
+9. Co-relation plot for stock prices
+10. 
