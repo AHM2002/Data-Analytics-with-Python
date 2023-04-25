@@ -1,0 +1,41 @@
+Anybody's welcome to this Indian Premier League Get Alliss project.
+
+So what exactly is Indian primally?
+
+So it is basically our cricket league contested during summer of every year in India in which various
+
+eight teams are going to be participating in it anymore.
+
+So basically those teams are, let's say Punjab, Rajasthan, Mumbai and all this team.
+
+And, you know, it is the most outstanding cricket league in the world.
+
+And in 2019, ETRAN, it's ranked second by average attendance among all the sports leagues.
+
+So no question can arise what type of analysis you can perform on this.
+
+Ippolita, let's say you have to analyse total runs across the season.
+
+So from the start you can come to a conclusion year between the season.
+
+I have somewhere around 20 to Kieran's.
+
+Let's say you have to analyse performance of a particular batsman.
+
+So using this pie chart, you can come to such conclusion.
+
+Let's say for each and every team of IPL, you have to conclude your what is a batting performance of
+
+the team.
+
+So basically you can come to such conclusion.
+
+What is a task this season in various various season by teams?
+
+Let's see how many matches played by our teams and in how many matches they are going to win.
+
+So basically, you have to perform such analysis on your data.
+
+You have to find your insights from your data.
+
+So let's go ahead to the project.
