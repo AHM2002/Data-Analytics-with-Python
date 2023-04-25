@@ -1,0 +1,6 @@
+1. Data Preparation
+2. What is the best month for sale?
+3. At what time sales of product purchase is maximum?
+4. What product sold the most and why?
+5. what products are most often sold together?
+ 
